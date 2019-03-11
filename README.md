@@ -28,11 +28,11 @@ The norms and regulations for OnBoarding to Skunkworks
 
 The ONLY projects open to newbies are:
 
-      •	AutoKaggler in Spark and TF - Statistical Models (Karan)
-      •	AutoKaggler in Spark and TF - Time Series (Balaji)
-      •	AutoKaggler in Spark and TF - Deep Learning (Anurag and Anusha)
-      •	Hyperparameter DB - (Prabu)
-      •	Jobs DB (Anurag and Anusha)
+                • AutoKaggler in Spark and TF - Statistical Models (Karan)
+                • AutoKaggler in Spark and TF - Time Series (Balaji)
+                • AutoKaggler in Spark and TF - Deep Learning (Anurag and Anusha)
+                • Hyperparameter DB - (Prabu)
+                • Jobs DB (Anurag and Anusha)
 
 Other projects require acceptance by the respective project leaders.
 
