@@ -13,11 +13,11 @@ The norms and regulations for OnBoarding to Skunkworks
     -	Supervisors – Prof. Nik, Ann
     -	Project Managers under the Projects – 
     
-                • AutoKaggler in Spark and TF - Statistical Models (Karan)
-                • AutoKaggler in Spark and TF - Time Series (Balaji)
-                • AutoKaggler in Spark and TF - Deep Learning (Anurag and Anusha)
-                • Hyperparameter DB - (Prabhu)
-                • Jobs DB (Anurag and Anusha)
+                • (Karan)
+                • (Balaji)
+                • (Anurag and Anusha)
+                • (Prabhu)
+                • (Anurag and Anusha)
                 
     -	Onborading/Task managers
     -	Students
