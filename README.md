@@ -2,9 +2,8 @@
 The norms and regulations for OnBoarding to Skunkworks
 
 -	Slack Channels
-    -	Fatweasel
-    -	AI Skunkworks
-    -	Hyperparameter.net
+    -	NEU AI Skunkworks
+    -	SkunkWorksProjects
 -	Work Areas
     -	GitHub
     -	Google Cloud Platform
