@@ -36,7 +36,7 @@ For projects open currently in Skunkworks, kindly refer - <a href="https://githu
      • Balaji
      • Anurag and Anusha
      • Prabhu
-Feel free to visit our page in LinkedIn <a href="https://www.linkedin.com/company/skunkworksneu/">AI Skunkworks at Northeastern University</a>
+Feel free to visit our page on LinkedIn <a href="https://www.linkedin.com/company/skunkworksneu/">AI Skunkworks at Northeastern University</a>
 <center>
     Looking forward to have you onboard. Be a <b>Skunk</b>!!!
 </center>
