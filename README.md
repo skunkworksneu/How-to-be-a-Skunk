@@ -31,5 +31,9 @@ For projects open currently in Skunkworks, kindly refer - <a href="https://githu
      • Balaji
      • Anurag and Anusha
      • Prabhu
-        
-## Thank you
+
+<center>
+    Looking forward to have you onboard. Be a <b>Skunk</b>!!!
+</center>
+
+## <center>Thank you</center>
