@@ -12,11 +12,16 @@ You are an expert in a certain area/field within Artificial Intelligence field a
 AI Skunkworks mission is to develop and research projects within the field of AI. For that, several projects has been planned to achieve this mission. You can join the currently available projects by contacting the Project Manager, where he or she will give the final decision whether the project is a fit on both sides. If in any case that the project is not a fit, you may try to join other available projects. If all the projects are full or not a fit, you can only join the group using Option 1. If you are joining through this option, you will be invited to join AI Skunkworks members slack channel, and the project specific slack channel.
 
 ### Non-members access:
+----------------------
 Non-members are allowed to attend any workshops or events conducted by AI Skunkworks members, in first-come-first-serve basis. Announcement of workshops and events are made through email or Piazza and through LinkedIn. Non-members are encourage to follow AI Skunkworks LinkedIn, General Slack channel, and Github for updates and materials of the workshops conducted. You may post questions through our LinkedIn, or through our general slack channel. 
 
 #### Slack Channels: To convey messages and to get in touch with the members. The Slack channels we have:
 - NEU AI Skunkworks - <a href="neuaiskunkworks.slack.com">neuaiskunkworks.slack.com</a>
+
+For joining as a member and get the updates on the workshop. Also, to get in touch with the existing Skunks
 - SkunkWorksProjects - <a href="skunkworksprojects.slack.com">skunkworksprojects.slack.com</a>
+
+For getting into Skunkworks Projects and contribute for the same.
     
 For any of the above, you need to be invited. Kindly get in touch with the project managers to get the invite.
     
