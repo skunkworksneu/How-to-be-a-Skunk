@@ -1,11 +1,9 @@
 # Onboarding Process:
 
-## AI Skunkworks at Northeastern University is a closed group where members can only join through contributions. These contributions can be from one of the two ways stated below or by approval from Prof. Nik Bear Brown. Although non-members will also be able to gain knowledge in AI field through open AI Skunkworks events.
+#### AI Skunkworks at Northeastern University is a closed group where members can only join through contributions. These contributions can be from one of the two ways stated below or by approval from Prof. Nik Bear Brown. Although non-members will also be able to gain knowledge in AI field through open AI Skunkworks events.
 
------------------------------------------------------
-
-## Members Join Options:
-
+## How to Join as a member?:
+You can join by one of the following methods:
 #### 1. Workshop Instructors
 You are an expert in a certain area/field within Artificial Intelligence field and would like to teach a workshop. Workshop materials may be available from previous workshops or you need to create a new materials for the workshop you are planning to conduct. Location and time of the workshop will be reserved for you. As a workshop instructor, you must follow the workshop guidelines and fulfill all tasks in the guidelines to ensure continuity of the workshop. Once your workshop has ended, you can join any project that is a fit for you, or you can conduct your own project. In order to this, you need to pitch your project idea to Prof. Nik Bear Brown, write your project idea in project description template, and you are required to present your idea in an Open-Mic session. If you are joining through this option, you will be invited to join AI Skunkworks members slack channel.
 
@@ -18,21 +16,19 @@ AI Skunkworks mission is to develop and research projects within the field of AI
 
 Non-members are allowed to attend any workshops or events conducted by AI Skunkworks members, in first-come-first-serve basis. Announcement of workshops and events are made through email or Piazza and through LinkedIn. Non-members are encourage to follow AI Skunkworks LinkedIn, General Slack channel, and Github for updates and materials of the workshops conducted. You may post questions through our LinkedIn, or through our general slack channel. 
 
-
-### Workareas we have:
--	Slack Channels
+-	Slack Channels: To convey messages and to get in touch with the members. The Slack channels we have:
+For any of the below, you need to be invited. Get in touch with the project managers to get the invite.
     -	NEU AI Skunkworks
     -	SkunkWorksProjects
--	Work Areas
-    -	GitHub
-    -	Google Cloud Platform
-    -	Trello
--	Roles
-    -	Supervisors – Prof. Nik, Ann
-    -	Project Managers in Skunkworks – 
-    for projects open currently in Skunkworks refer - <a href="https://github.com/skunkworksneu/Projects">Skunkworks Projects</a>
-                • Karan
-                • Balaji
-                • Anurag and Anusha
-                • Prabhu
+-	Work Areas: We use the below to establish our project
+    -	GitHub: Project repository.
+    -	Google Cloud Platform: Where we implement our project.
+    -	Trello: Our task manager to assign tasks to the project members and keep a track of it.
+    
+    for projects open currently in Skunkworks, kindly refer - <a href="https://github.com/skunkworksneu/Projects">Skunkworks Projects</a>
+        
+        • Karan
+        • Balaji
+        • Anurag and Anusha
+        • Prabhu
 -----------------------------------------------------------
