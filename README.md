@@ -13,22 +13,21 @@ AI Skunkworks mission is to develop and research projects within the field of AI
 
 
 #### Non-members access:
-
 Non-members are allowed to attend any workshops or events conducted by AI Skunkworks members, in first-come-first-serve basis. Announcement of workshops and events are made through email or Piazza and through LinkedIn. Non-members are encourage to follow AI Skunkworks LinkedIn, General Slack channel, and Github for updates and materials of the workshops conducted. You may post questions through our LinkedIn, or through our general slack channel. 
 
 -	Slack Channels: To convey messages and to get in touch with the members. The Slack channels we have:
-For any of the below, you need to be invited. Get in touch with the project managers to get the invite.
     -	NEU AI Skunkworks
     -	SkunkWorksProjects
--	Work Areas: We use the below to establish our project
+    For any of the above, you need to be invited. Kindly get in touch with the project managers to get the invite.
+    
+-	Work Areas: We use the below work areas to establish our project
     -	GitHub: Project repository.
     -	Google Cloud Platform: Where we implement our project.
     -	Trello: Our task manager to assign tasks to the project members and keep a track of it.
     
-    for projects open currently in Skunkworks, kindly refer - <a href="https://github.com/skunkworksneu/Projects">Skunkworks Projects</a>
+    for projects open currently in Skunkworks, kindly refer - <a href="https://github.com/skunkworksneu/Projects">Skunkworks Projects</a>. Below are the project managers. Please find their respect contact details in the Project folder handled by them.
         
         • Karan
         • Balaji
         • Anurag and Anusha
         • Prabhu
------------------------------------------------------------
