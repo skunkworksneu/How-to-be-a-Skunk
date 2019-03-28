@@ -19,7 +19,7 @@ Non-members are allowed to attend any workshops or events conducted by AI Skunkw
 - NEU AI Skunkworks - <a href="neuaiskunkworks.slack.com">neuaiskunkworks.slack.com</a>
 
 For joining as a member and get the updates on the workshop. Also, to get in touch with the existing Skunks
-- SkunkWorksProjects - <a href="">skunkworksprojects.slack.com</a>
+- SkunkWorksProjects - <a href="skunkworksprojects.slack.com">skunkworksprojects.slack.com</a>
 
 For getting into Skunkworks Projects and contribute for the same.
     
