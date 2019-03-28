@@ -16,10 +16,10 @@ AI Skunkworks mission is to develop and research projects within the field of AI
 Non-members are allowed to attend any workshops or events conducted by AI Skunkworks members, in first-come-first-serve basis. Announcement of workshops and events are made through email or Piazza and through LinkedIn. Non-members are encourage to follow AI Skunkworks LinkedIn, General Slack channel, and Github for updates and materials of the workshops conducted. You may post questions through our LinkedIn, or through our general slack channel. 
 
 #### Slack Channels: To convey messages and to get in touch with the members. The Slack channels we have:
-- NEU AI Skunkworks - <a href="neuaiskunkworks.slack.com">neuaiskunkworks.slack.com</a>
+- NEU AI Skunkworks - <a href="https://neuaiskunkworks.slack.com/">neuaiskunkworks.slack.com</a>
 
 For joining as a member and get the updates on the workshop. Also, to get in touch with the existing Skunks
-- SkunkWorksProjects - <a href="skunkworksprojects.slack.com">skunkworksprojects.slack.com</a>
+- SkunkWorksProjects - <a href="https://skunkworksprojects.slack.com/">skunkworksprojects.slack.com</a>
 
 For getting into Skunkworks Projects and contribute for the same.
     
