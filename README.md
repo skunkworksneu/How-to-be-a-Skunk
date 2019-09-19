@@ -1,4 +1,5 @@
-Hi All,
+Hello Welcome to Skunkworks GitHub,
+
 All those who are interested in joining Skunkworks and want to know the procedures. Below are the detailed guidelines.
 First - the workspace and important websites to be updated with the ongoing activities are as below:
 
@@ -47,8 +48,10 @@ List and status of the projects for the tenure - https://github.com/skunkworksne
 The students interested can contact the respective Project managers mentioned on the page and start participating in the project by connecting and understanding the requirement of the project. The students will be monitored for their work and given further opportunities.
 
 For any further questions, kindly visit the GitHub(https://github.com/skunkworksneu) or feel free to email skunkworksneu@gmail.com or even feel free email and meet one our below mentioned members.
+
 •	President - Prabhu Subramanian (Subramanian.pr@husky.neu.edu) 
 •	Treasurer - Ziwei Fan (fan.ziw@husky.neu.edu)
+
 NEU Club Sign up - https://orgsync.com/180975/chapter
 
 
